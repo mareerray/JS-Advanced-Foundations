@@ -1,1 +1,1 @@
-# JS-Advanced-Foundation
+# JS-Advanced-Foundations
